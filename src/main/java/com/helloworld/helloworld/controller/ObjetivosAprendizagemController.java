@@ -12,7 +12,7 @@ public class ObjetivosAprendizagemController {
 	public String objetivos() {
 		return "Objetvos da Semana:\nAvançar nos conceitos gerais de Spring Boot;"
 				+ "\nEstudar os conceitos gerais de Raciocínio Lógico;"
-				+ "\nEstudar os conceitos gerais de Organização de Compuradores;"
+				+ "\nEstudar os conceitos gerais de Organização de Computadores;"
 				+ "\nRevisar conteúdos Bloco I";
 	}
 

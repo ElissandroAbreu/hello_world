@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/bsm-gen")
-public class BSMGenerationCobtroller {
+public class BSMGenerationController {
 	
 	@GetMapping
 	public String bsmGen() {
